@@ -1,2 +1,2 @@
-# fatec
-Meus trabalhos feitos na Fatec durante o curso
+# Estrutura de dados
+Trabalho para implantar um mini sistema de controle, o intuito foi parecer como uma rifa e passagem de ônibus, está funcional para um mvp mas para aprofundar necessitaria ajustar a lógica para mostrar o layout das poltronas ocupadas e livres para diferentes origens x destinos, datas e valores pois o layout é o mesmo para tudo o que poderia também ser lembrado como uma compra de um número de rifa.
